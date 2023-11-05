@@ -2,7 +2,7 @@
  *
  * Implementation for vex_list_t type defined in `list.h`.
  *
- * @author Gilbert Castro
+ * 
  * @bug No known bugs
  */
 
